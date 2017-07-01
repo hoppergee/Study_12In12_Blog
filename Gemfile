@@ -38,6 +38,7 @@ gem 'jbuilder', '~> 2.5'
 gem "rb-fsevent", "0.9.8"
 
 gem 'shog'
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
